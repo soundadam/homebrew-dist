@@ -11,11 +11,8 @@ SHA-256 values, license boundary, and security state.
 
 ```bash
 brew install soundadam/tap/codex-switch
-brew install soundadam/tap/njuprobe
-brew install soundadam/tap/teaway
 brew install --cask soundadam/tap/codex-pulse
-brew install --cask soundadam/tap/soundvpn
-brew install --cask soundadam/tap/soundconnect
+brew install --cask soundadam/tap/mac-thermal-lab
 ```
 
 ## Releases
